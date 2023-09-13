@@ -57,7 +57,7 @@ end
 @add_prefixes A (n, μ, u, m, k)
 @add_prefixes K (m,)
 @add_prefixes cd (m,)
-@add_prefixes mol (m,)
+@add_prefixes mol (m, n)
 
 @doc(
     "Length in meters. Available variants: `fm`, `pm`, `nm`, `μm` (/`um`), `cm`, `dm`, `mm`, `km`, `Mm`, `Gm`.",
